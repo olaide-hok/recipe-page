@@ -281,7 +281,7 @@ tr:last-of-type td {
         border-radius: var(--spacing-150);
     }
     .recipe .container {
-        padding: var(--spacing-500) 0;
+        padding: 0;
     }
 }
 

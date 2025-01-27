@@ -276,6 +276,7 @@ tr:last-of-type td {
         margin: 0 var(--spacing-300);
         padding: var(--spacing-500);
         max-width: 616px;
+        row-gap: 40px;
     }
     .recipe .recipe_image {
         border-radius: var(--spacing-150);

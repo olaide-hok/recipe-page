@@ -166,6 +166,10 @@ body {
     padding-left: var(--spacing-200);
 }
 
+.container .preparation_time .list li:last-child {
+    margin-bottom: 0;
+}
+
 .container .preparation_time .list li::marker {
     color: var(--rose-800);
 }
@@ -183,6 +187,10 @@ body {
 .container .ingredients .list li {
     margin-bottom: var(--spacing-150);
     padding-left: var(--spacing-200);
+}
+
+.container .ingredients .list li:last-child {
+    margin-bottom: 0;
 }
 
 .container .ingredients .list li::marker {
@@ -208,6 +216,10 @@ body {
 .container .instructions .list li {
     margin-bottom: var(--spacing-150);
     padding-left: var(--spacing-200);
+}
+
+.container .instructions .list li:last-child {
+    margin-bottom: 0;
 }
 
 .container .instructions .list li::marker {
